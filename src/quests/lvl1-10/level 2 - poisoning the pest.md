@@ -1,10 +1,11 @@
-# Poisoning the Pest (level 2)
-<span style="font-size: 25px;">**铲除虫害**</span>
-
+---
+title: Poisoning the Pest (level 2)
+icon: scroll
+---
 ## 任务信息 / Information
 任务等级：Level 2 / 推荐等级： Level 2
 任务时长：短 / 任务难度： 简单
-
+中文译名：铲除虫害
 
 ## 奖励清单 / Rewards
 

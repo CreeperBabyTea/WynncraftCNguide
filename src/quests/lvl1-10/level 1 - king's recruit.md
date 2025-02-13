@@ -3,13 +3,12 @@ title: King's Recruit (level 1)
 icon: exclamation
 ---
 
-<span style="font-size: 25px;">**国王的招兵**</span>
-
 
 
 ## 任务信息 / Information
 任务等级：Level 1 / 推荐等级： Level 1
 任务时长：较长 / 任务难度： 简单
+中文译名：国王的招兵
 
 :::tip 教程任务
 此任务为新手教程，可用`/skiptutorial`跳过至最后步骤
@@ -59,6 +58,8 @@ icon: exclamation
 
 当然，每个模式都需要完成对应的条件才能解锁，新手无需理会，但还是先介绍一下各个模式：
 
+:::details 每个挑战因子的详细介绍
+
 **【Hardcore/极限模式】** 在死亡时，你会掉落绝大多数物品。同时第一次死亡会导致你的极限模式前缀熄灭。(仅仅只是代表死过一次)
 
 **【Craftsman/工匠】** 你只能使用[自制物品](/guide/profession.html)。
@@ -70,6 +71,8 @@ icon: exclamation
 **【Hunted/狩猎模式】** 你将永久开启PVP模式，无法关闭。
 
 每一个挑战因子都会给你带来极高的难度。当然，除了PVP模式会给你增加50%的额外经验值以外，其余的挑战都不会带来奖励。
+
+:::
 
 #### 3. 特效皮肤
 
