@@ -179,6 +179,9 @@ wynn在输入法拼出来就是这个:(
 ### **海底捞**
 指一种前期赚钱途经，你可以看看[这里](/guide/earnle.html#海底捞)
 
+### **星巴克/海盗船**
+指lv80的we Swashbuckling Brawl
+
 ### **锁**
 指鉴定道具——`Corkian Insulator`
 
@@ -196,7 +199,7 @@ wynn在输入法拼出来就是这个:(
 因此调侃为aLEdar，他给的实在是太多了。
 :::
 
-### **毁灭菇**
+### **毁灭菇/胆小鬼**
 指鉴定道具——`Corkian Simulator`
 
 因为外表形似毁灭菇，而得名
@@ -345,17 +348,31 @@ what do you mean，什么意思？(非贬义)
 
 ## 装备类
 
-### **dz**
-divzer，弓箭手的雷属性神话
+::: tabs
 
-### **gma/奶奶**
-grandmather，弓箭手的地属性神话
-
-### **扭曲/瓦普**
-Warp，法师的气属性神话
+@tab 武器
 
 ### **cata**
-cataclysm，刺客的雷属性神话
+一般指cataclysm，刺客的电神话。有时候指奶叉catamaran
 
-### **水刀**
-Nirvana，刺客的水属性神话
+@tab 头盔
+
+### **腐化头**
+头盔Caesura
+
+@tab 胸甲
+
+### **导管精神/灵魂导管**
+Conduit of Spirit
+
+@tab 苦茶子
+
+### **裹尸布**
+Dark Shroud
+
+### **某某圣所**
+指cls的裤子，包括五中元素对应的圣所和彩虹圣所
+
+@tab 鞋子
+
+:::
