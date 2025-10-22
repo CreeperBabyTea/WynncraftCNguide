@@ -794,6 +794,8 @@ bmonk被削之前还行，现在就是查无此人。
 
 看上去很美 实际用起来一堆问题
 
+抓个血萨来喷金液的话输出还行，但是都有血萨了
+
 :::tip 词条优先级
 **优先参考**：Health、Bash Cost
 + 需要注意的是，关于HP有两种参考方法，一种是越高越好，影响鉴定度和生存；另一种是越低越好，在腐化结束之后可以更快回满(烧血是百分比烧，但血瓶是固定回血)。Cost影响技能循环，越高越好
@@ -953,13 +955,9 @@ bmonk被削之前还行，现在就是查无此人。
 
 还拥有对治疗技能的大幅度加成与降费
 
-能够给予你高额的生存能力，用伤害作为代价...
+现在输出也不低了~~还不是其他神话太拉了衬托出来的~~，配上五自制lightweaver能给tcc扒层皮
 
-就像拉面一样
-
-> 指伤害
-
-球法的指定星怒之一
+鉴于奥法已经死了，rw还没活起来，拉面lb竟然成了团本唯一法师
 
 使用星露收益最高的神话💪💪💪
 
@@ -1218,9 +1216,11 @@ hmelee法师创始人，gw solo的神！
 
 新手lr的第一把mythic，低廉的价格，极致的伤害
 
-由于奥术法师的优秀模板，使得作为电神话的fatal能够选择拥有优秀ehp和输出能力同时缺少mr的彩虹build，同时选择奥术还能让fatal直接删除一个负面词条，非常强劲
+鉴于奥术已经要死了，现在已经加入rw全家桶
 
-自身作为电属性武器还提供了不俗的电点数，rw 奥术 甚至球法都能玩的神
+副手盖亚/bonder，配合十字军或星露既能打团又能跑lr ~~（吗？~~
+
+自身作为电属性武器还提供了不俗的电点数，rw 奥术 甚至球法都能玩的神 ~~（前提是你不怕被骂~~
 
 三号炮机+第二个正在开发的东西（包括但不限于rw或者rw或者rw）+过去的anni大杀器+可能因为奥术树的改动再次成为tcc陨石meta
 
@@ -1392,6 +1392,8 @@ Warp的设计很明显，牺牲续航换来你游天花板级别的功能性和�
 
 拥有法师武器中最高额的攻击面板，并且上下浮动低伤害稳定。
 
+> 一个气棍伤害比fatal还高这合理吗
+
 提供高额的移动速度，让你快速甩开敌人。
 
 强大的2技能cost让你可以不断的tp，体验飞一般的感觉。
@@ -1492,6 +1494,8 @@ salute to player killed shiny warp+致敬传奇845x3.6+传奇耐砍王+无法超
 
 目前价格也在持续上升中。
 
+好像rw有点说法，fatal的难兄难弟
+
 
 :::tip 词条优先级
 **优先参考**：
@@ -1566,6 +1570,8 @@ anni黑神话二等奖，价格稍贵
 Major马上要回调，不好评价。
 
 本来设计出来玩rw的武器却从来没有玩过rw
+
+目前主流玩法是作为fatal和羽蛇神的风奴
 
 目前主流是etf炮机球（专用于tcc）+2.1ETF低能流的开山鼻祖+目前开发的方向在于所谓的rw（即使目前有着devit的限制）+未来改动拭目以待
 
@@ -1724,9 +1730,9 @@ Az在74级时拥有极其优秀的面板，并且提供了一定的经验加成
 
 要伤害有坦度要续航有坦度要机动性有坦度
 
-均衡到连输出都没有，甚至不能玩trapper，无论怎么玩都很弱
+现在玩bolt输出还能看，鉴于不错的综合性能可以做raid兜底王
 
-彩虹圣所加强了，但是自由烂完了
+> 但是你最好别让我看到morph freedom
 
 
 :::tip 词条优先级
@@ -1974,6 +1980,8 @@ tna常驻嘉宾
 现有版本里伤害依旧数一数二的神话弓
 
 boltslinger的拯救者，服务器的撕碎者，玩家电脑的破坏者，高base和牺牲生存换来的爆发输出，打得非常快，死的也非常快，你游非常无脑的一把武器，ehp比自身hp还低是什么垃圾武器啊，比别人多一个gambit是为什么呢，会玩的它就很厉害，不会玩的在四个room都死一遍
+
+dz的base已经被砍过一刀了，不知道还能活几个版本
 
 
 :::tip 词条优先级
@@ -2655,6 +2663,8 @@ slider以1ws的劣势惜败archangel
 
 进能打spell 退能打heavy melee
 
+现在好像有人在玩grimtrap trickshade
+
 
 :::tip 词条优先级
 **优先参考**：
@@ -2985,6 +2995,8 @@ hm有发挥空间，但是真的有人玩hm吗
 刺客真正的彩虹神话，指模型
 
 有效面板1000左右 不低 但是和cata没法比
+
+shade有说法，但是shade真的还有人玩吗
 
 
 
@@ -3369,6 +3381,8 @@ hana：别别别
 
 唯三不给技能点的神话
 
+能玩ts，但ts真能玩吗？
+
 
 :::tip 词条优先级
 **优先参考**：
@@ -3453,6 +3467,8 @@ aura spam享受者
 最意义不明的彩虹神话设计
 
 200+的cost%值得200k的价格
+
+但是真的从来没见人用过
 
 
 :::tip 词条优先级
@@ -3690,6 +3706,8 @@ Abso的功能决定了它几乎与Acolyte强绑定，它就是为当奶妈而生
 
 与当今萨满主流玩法格格不入最终成为summoner的指定大儿
 
+> 笔者的reso在notg输出竟然被这东西超了
+
 
 :::tip 词条优先级
 **优先参考**：
@@ -3755,7 +3773,7 @@ Abso的功能决定了它几乎与Acolyte强绑定，它就是为当奶妈而生
       <span class="bonus-positive">-6 <span class="bonus-to">to</span> -25%</span> Uproot Cost<br>
       <span class="bonus-negative">-36 <span class="bonus-to-negative">to</span> -20%</span> Sprint<br>
       <span class="bonus-negative">-56 <span class="bonus-to-negative">to</span> -31%</span> Air Defence<br>
-      <span class="major-id-name">+Lifestream:</span> <span class="major-id-desc"> Blood Sorrow deals <span class="neutral-damage">✤500%</span> and grants 4 times the overhealth, but shortens its duration by 75%.</span>
+      <span class="major-id-name">+Lifestream:</span> <span class="major-id-desc"> Blood Sorrow deals <span class="neutral-damage">✤400%</span> and grants 4 times the overhealth, but shortens its duration by 75%.</span>
     </p>
     <p class="powder-rarity">
       [3] Powder slots<br>
@@ -3776,7 +3794,7 @@ reson的强度在血萨加强之前就有了，非常彪悍的major设计硬抬�
 
 虽然与ec多少有点格格不入但不影响人家的major发光发热
 
-
+对然后major倍率就被偷偷削了100%中性伤害
 
 黑神话一等奖，开到就是赚到
 
@@ -4079,7 +4097,7 @@ anni指定非ban位，anni队伍的免死金牌，
 
 研究了两个月发现只有国人会玩boreal lr warp build，所以就当他很强吧
 
-
+现在有一个铂臻噶点烧血bigmac，在notg好像有点说法
 
 :::tip 词条优先级
 **优先参考**：
